@@ -10,7 +10,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## 🚀 Demo
 
-You can try the live demo [here](https://your-live-demo-url.com) to calculate your token airdrop results.
+You can try the live demo [here](https://airdrop-calculator.vercel.app/) to calculate your token airdrop results.
 
 ## 📷 Screenshots
 ![image](https://github.com/user-attachments/assets/7036f13e-810e-4166-a7a6-dc6034cd5d61) ![image](https://github.com/user-attachments/assets/8c7f6e46-efe5-4f19-b1da-f0f15979d0a1)
